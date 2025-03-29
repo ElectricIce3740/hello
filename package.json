@@ -1,0 +1,21 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElectricIce3740/hello.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ElectricIce3740/hello/issues"
+  },
+  "homepage": "https://github.com/ElectricIce3740/hello#readme"
+}
